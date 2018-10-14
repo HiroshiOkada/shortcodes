@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "minify"
+    ],
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "chrome": 60
+        }
+      }
+    ]
+  ]
+}

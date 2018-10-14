@@ -1,0 +1,14 @@
+{
+  "name": "shortcodes",
+  "version": "0.1.0",
+  "description": "A collection of short codes",
+  "author": "Hiroshi Okada <okadahiroshi@miobox.jp> (https://hiroshi.toycode.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-preset-minify": "^0.5.0",
+    "prettier": "^1.14.3"
+  }
+}
